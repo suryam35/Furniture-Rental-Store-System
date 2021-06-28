@@ -9,7 +9,7 @@ This is a desktop application programmed using *Python* which can be used as a p
 **Customer**: Searches, rents and loans furniture.
 
 ## Presentation
-More details regarding the project about implementation, testing, motivation, etc. can be found in [this](https://github.com/Abhitipu/FRSS-Software-Lab/blob/main/FRSSPresentationFinal.pdf) presentation.
+More details regarding the project about implementation, testing, motivation, etc. can be found in [this](https://github.com/suryam35/Software-Lab-Project-FRSS/blob/main/FRSSPresentationFinal.pdf) presentation.
 
 ## Requirements
 For running this application we will need:
