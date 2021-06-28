@@ -26,12 +26,13 @@ Unittest
 ## How To Run
 To run the application first install the mentioned dependencies using
 ```
-pip3 install <Dependency-name>
+cd Implementation
+pip3 install -r requirements.txt
 ```
 Then we can use the following command to run our app
 ```
 cd Implementation
-python main.py
+python3 main.py
 ```
 
 ## This project was made by
