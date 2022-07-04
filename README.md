@@ -1,6 +1,3 @@
-# FRSS-Software-Lab
-This is the course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya and Prof. Abir Das.
-
 ## About
 This is a desktop application programmed using *Python* which can be used as a platform where people can search, rent and loan furniture. 
 
@@ -34,8 +31,3 @@ Then we can use the following command to run our app
 cd Implementation
 python3 main.py
 ```
-
-## This project was made by
-- Kunal Singh (19CS10069)
-- Abhinandan De (19CS30033)
-- Suryam Arnav Kalra (19CS30050)
